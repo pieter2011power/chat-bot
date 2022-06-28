@@ -2,11 +2,11 @@
 import time
 import random
 print('welcome...(made by pieter)')
-time.sleep(0)
+time.sleep(3)
 print('loading...(made by pieter)')
-time.sleep(0)
+time.sleep(4)
 print('hello...')
-time.sleep(0)
+time.sleep(2)
 print('almost finished(made by pieter)')
 
 time.sleep(2)
